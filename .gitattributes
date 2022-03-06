@@ -1,0 +1,16 @@
+*       text=auto
+
+*.py    text
+*.sh    text
+*.bat   text
+*.csv   text
+*.ini   text
+*.txt   text
+*.md    text
+*.rst   text
+Makefile  text
+LICENSE   text
+
+*.zip   binary
+*.tiff  binary
+*.ipynb binary
